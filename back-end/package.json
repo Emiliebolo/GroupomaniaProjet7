@@ -1,0 +1,26 @@
+{
+  "name": "back-end2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "email-validator": "^2.0.4",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "jwt": "^0.2.0",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.12",
+    "password-validator": "^5.1.1",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.2.0"
+  }
+}
