@@ -11,13 +11,18 @@
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
     "email-validator": "^2.0.4",
+    "express": "^4.17.1",
     "fs": "^0.0.1-security",
+    "helmet": "^4.6.0",
     "jsonwebtoken": "^8.5.1",
     "jwt": "^0.2.0",
-    "multer": "^1.4.2",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.3",
     "nodemon": "^2.0.12",
     "password-validator": "^5.1.1",
+    "path": "^0.12.7",
     "sequelize": "^6.6.5"
   },
   "devDependencies": {
