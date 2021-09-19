@@ -3,16 +3,9 @@
     <v-row class="bloc">
       <v-col sm="12" md="6" class="mx-auto">
         <v-card flat class="posts-card ">
-          <v-img
-            :src="require('../assets/logo_transparent.png')"
-            class="my-2"
-            contain
-            height="50"
-            alt="logo groupomania"
-          />
-          <h1 class="font-weight-regular text-center">Le fil d'actu !</h1>
+         
           <v-card-title
-            class=" d-flex justify-space-between"
+            class=" d-flex justify-space-between feed-title-box"
             fixed
             flat
             dense
@@ -27,7 +20,7 @@
                   v-bind="attrs"
                   v-on="on"
                 >
-                  Les + récents
+                 filtre récent
                 </v-btn>
               </template>
               <span>Les plus récents</span>
@@ -41,7 +34,7 @@
                   v-bind="attrs"
                   v-on="on"
                 >
-                  Les + likés
+                  filtre like
                 </v-btn>
               </template>
               <span>Les plus likés</span>
@@ -57,6 +50,7 @@
               </template>
               <span>Publier</span>
             </v-tooltip>
+             <h1 class="font-weight-regular text-center feed-title">L'actualité les plus populaire!</h1>
           </v-card-title>
         </v-card>
       </v-col>
@@ -143,4 +137,13 @@ export default {
 };
 </script>
 
-<style></style>
+<style lang="scss" scoped>
+.feed-title-box {
+  background-color: #ecb9db;
+}
+.feed-title{
+  font-size: 40px;
+  padding-top: 10px;
+  margin-left: 90px;
+}
+</style>

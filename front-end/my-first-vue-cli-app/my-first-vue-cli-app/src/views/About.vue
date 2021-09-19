@@ -2,19 +2,19 @@
   <v-container>
     <v-layout>
       <v-flex xs12>
-        <h1 class="display-1 mt-5 px-2">Le règlement</h1>
+        <h1 class="display-1 mt-5 px-2">Le règlement intérieur</h1>
         <p class="subheading font-weight-regular mt-5 px-2">
-          Vous pouvez publier des messages seuls ou accompagné au choix d'un gif ou d'une image.
-            <br>
-            Vous pouvez ajouter une photo de profil et renseigner votre bio pour vous décrire en cliquant sur l'avatar coloré d'accès au compte une fois connecté.
-            <br>
-            Merci de rester bienveillant et tolérant avec les autres
-            utilisateurs. Tout manquement au respect du règlement pourra entraîner
-            la suppression, d'un commentaire, d'un post, et même d'un compte
-            utilisateur.
-            <br>
-            L'Admin veille pour maintenir la bonne humeur ! Have fun ! 😊
-            <br>
+          Agir avec loyauté envers l’organisation lorsque des commentaires sont émis.
+          <br/>
+          Adhérer aux valeurs fondamentales de l’entreprise. Ceci doit transparaître en tout temps lorsque les médias sociaux sont utilisés. 
+         <br/>
+          • Être éthiquement responsable et professionnel lorsqu’un employé s’exprime sur les réseaux sociaux.
+         <br/>
+          • Ne publier aucun propos qui pourrait nuire à la réputation d’un collègue ou à celle de l’organisation. 
+         <br/>
+          • N’utiliser les médias sociaux ainsi qu’un téléphone portable, à des fins personnelles, que lors des pauses ou en dehors des heures de travail. 
+         <br/>
+          • Respecter la vie privée d’autrui. Demander en tout temps l’avis de votre collègue si une photo ou un enregistrement de celui-ci est publié.
         </p>
       </v-flex>
     </v-layout>

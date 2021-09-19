@@ -14,7 +14,7 @@
         </v-icon>
         <div>
           <h1 class="font-weight-regular titre titre_new">
-            Que partages-tu aujourd'hui ?
+            Fait nous découvrir ton post  
           </h1>
         </div>
       </v-card-title>

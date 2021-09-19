@@ -256,6 +256,7 @@ export default {
   display: flex;
   justify-content: space-between;
   padding-top: 1em;
+  background-color: #ecb9db;
 }
 .profil-middle {
   width: 100%;
@@ -263,5 +264,6 @@ export default {
 }
 .profil-title {
   padding: 0;
+  
 }
 </style>

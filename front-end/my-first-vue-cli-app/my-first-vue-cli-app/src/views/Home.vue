@@ -13,7 +13,7 @@
 
       <v-col class="mb-4 px-5">
         <h1 class="display-1 font-weight-bold mb-5">
-          Bienvenue sur le social network de Groupomania !
+          Bienvenue sur Groupomania !
         </h1>
       </v-col>
     </v-row>

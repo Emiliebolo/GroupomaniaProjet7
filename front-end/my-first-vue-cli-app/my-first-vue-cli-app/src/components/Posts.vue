@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-card class="posts-card mx-auto mt-4 mb-4 pb-5" round elevation="2">
+    <v-card class="posts-card mx-auto mt-4 mb-4 pb-5" round elevation="4">
       <div>
         <div class="d-flex justify-space-between pr-2 ">
           <v-card-title class="post-title">

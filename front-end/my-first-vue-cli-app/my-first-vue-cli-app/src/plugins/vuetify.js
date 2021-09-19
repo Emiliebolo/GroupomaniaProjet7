@@ -9,7 +9,7 @@ const MY_ICONS = {
   delete: 'mdi-trash-can-outline',
   update: 'mdi-update',
   comment: 'mdi-comment-text-outline',
-  like: 'mdi-emoticon-outline',
+  like: ' mdi-thumbs-up-down',
   home: 'mdi-home',
   mail: 'mdi-email'
   

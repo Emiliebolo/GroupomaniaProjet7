@@ -24,7 +24,7 @@ a {
   font-size: 12px !important;
   font-weight: 400 !important;
   &:hover {
-    background-color: #e91e63 !important;
+    background-color: rosybrown !important;
     color: black !important;
   }
 }
@@ -56,16 +56,16 @@ a {
   background-color: white;
   position: fixed;
   
-  padding-top: 15px;
+  padding-top: 5px;
   margin :auto!important;
-  top: 55px;
+  top: 50px;
   left:0;
   right: 0;
   z-index:1;
 }
 .bloc2 {
 position: relative;
-margin-top: 180px;
+margin-top: 80px;
 
  
 }
@@ -115,7 +115,7 @@ margin-top: 180px;
   padding-bottom: 5em;
 }
 .post-title-box {
-  background-color: #424242 !important;
+  background-color: #ecb9db !important;
  
 }
 .post-title {
@@ -184,4 +184,5 @@ background-color: white!important;
 }
 .post-card {
   margin-top: 3em;
+  
 }
