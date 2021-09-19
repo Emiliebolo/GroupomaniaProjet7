@@ -97,13 +97,13 @@
             v-if="post.imageUrl"
             :src="post.imageUrl"
             alt="image postée par l'utilisateur"
-            :max-height="600"
-            :max-width="400"
+            :max-height="800"
+            :max-width="800"
             class="mx-auto pb-5"
           >
           </v-img>
         </div>
-        <v-divider></v-divider>
+       
         <div class="d-flex flex-column align-end pr-3">
           <div>{{ post.Comments.length }} comments</div>
           <div>{{ post.Likes.length }} j'aime</div>
